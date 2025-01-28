@@ -1,0 +1,7 @@
+com/mercari/pages/LoginPage.class
+com/mercari/base/PageLogger.class
+com/mercari/utils/CommonUtils.class
+com/mercari/pages/CartPage.class
+com/mercari/base/BrowserFactory.class
+com/mercari/pages/CheckoutPage.class
+com/mercari/base/BasePage.class
