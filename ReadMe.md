@@ -1,4 +1,4 @@
-Selenium-Based Automation Framework with Java, BDD, and Cucumber## Rakuten Web Search Automation Framework [iOS, Android & Unified Extension]
+Selenium-Based Automation Framework with Java, BDD, and Cucumber
 
 ### Project Overview
 
@@ -46,28 +46,3 @@ Prerequisites
 8. Easier Reviews
 9. Clarity, Steam-lining, Shift left
 10. Maintainable
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
